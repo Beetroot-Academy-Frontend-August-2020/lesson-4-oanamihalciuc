@@ -1,0 +1,15 @@
+nav {
+    background-color: rgb(241, 222, 207)
+}
+
+#photo, #social-media, #contact, #languages {
+    background-color: rgb(239, 246, 238)
+}
+
+.uppercase {
+    color: rgb(95, 168, 155);
+}
+
+.component p,h4 {
+    color: rgb(134, 154, 163);
+}
